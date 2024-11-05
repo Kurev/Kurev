@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Information Technology student at Ateneo de Davao University
+🎓 Information Technology student at Ateneo de Davao University <br>
 💻 Frontend Developer
 
 # 💻 Tech Stack:
