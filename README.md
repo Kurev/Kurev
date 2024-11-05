@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kurev&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Favorite Dev Quote:
+"Useless but use less."
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kurev&limit=5&theme=radical&combine_all_yearly_contributions=true)
