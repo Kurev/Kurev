@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Favorite Dev Quote:
-"Useless but use less."
+"Useless but use less."<br/>
 -Kurt
 
 ### 🔝 Top Contributed Repo
